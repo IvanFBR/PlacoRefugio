@@ -1,6 +1,6 @@
 # Placo Refugio 🐶🐱
 
 > **⚠️ Note on Authorship / Nota de Autoría:**
-> This project was originally developed by me using my academic account (**@IvanBayoR**) 
+> This project was originally **co-developed** by a team including myself (using my academic account **@IvanBayoR**) 
 > during my Computer Systems Engineering degree. This repository is a fork 
-> to consolidate my portfolio under my personal handle (**@IvanFBR**).
+> to showcase my contributions on my personal portfolio (**@IvanFBR**).
